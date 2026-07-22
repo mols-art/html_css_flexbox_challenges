@@ -1,18 +1,48 @@
 /* Figure out 5 or more DIFFERENT ways to fill in the blank 
    to produce the desired output */
 
-_________ {
+/*{
     font-family: Helvetica;
     font-size: 300%;
     color: #ffd63e;
     text-align: center;
-}
+}*/
 
 /* Record your solutions here:
-   #1 -
+   #1 - 
+    #unique {
+    font-family: Helvetica;
+    font-size: 300%;
+    color: #ffd63e;
+    text-align: center;
+   }
    #2 - 
+   div {
+    font-family: Helvetica;
+    font-size: 300%;
+    color: #ffd63e;
+    text-align: center;
+   }
    #3 - 
+   body {
+    font-family: Helvetica;
+    font-size: 300%;
+    color: #ffd63e;
+    text-align: center;
+   }
    #4 -
+   .chuuuuu {
+    font-family: Helvetica;
+    font-size: 300%;
+    color: #ffd63e;
+    text-align: center;
+   }
    #5 -
+   h1 {
+    font-family: Helvetica;
+    font-size: 300%;
+    color: #ffd63e;
+    text-align: center;
+   }
 
    e.g. - .pika               */
